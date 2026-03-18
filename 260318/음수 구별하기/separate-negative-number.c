@@ -7,7 +7,5 @@ int main() {
     printf("%d\n",n);
     if(n<0)
         printf("minus");
-    else
-        printf("plus");
     return 0;
 }
